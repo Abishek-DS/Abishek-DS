@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/github-banner.png" alt="Abishek D — Embedded Systems, IoT and VLSI" width="100%">
+</p>
+
+
 # 👋 Hi, I'm Abishek D
 
 ### Embedded Systems Engineer in the Making | IoT | VLSI
