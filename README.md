@@ -1,11 +1,13 @@
+ 
 <!-- Profile README for https://github.com/Abishek-DS -->
+
 <p align="center">
   <img src="assets/github-banner.png" alt="Abishek D | Embedded Systems, IoT and VLSI" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=2800&pause=700&color=00D9FF&center=true&vCenter=true&width=750&lines=Embedded+Systems+%7C+IoT+%7C+VLSI;Building+hardware+that+solves+real+problems;Code+%E2%80%A2+Design+%E2%80%A2+Build+%E2%80%A2+Innovate">
-    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=2800&pause=700&color=00D9FF&center=true&vCenter=true&width=750&lines=Embedded+Systems+%7C+IoT+%7C+VLSI;Building+hardware+that+solves+real+problems;Code+%E2%80%A2+Design+%E2%80%A2+Build+%E2%80%A2+Innovate" alt="Animated introduction" />
+  <a href="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=2800&pause=700&color=00D9FF&center=true&vCenter=true&width=750&lines=Embedded+Systems+%7C+IoT+%7C+VLSI;Full-Stack+Web+Development;Code+%E2%80%A2+Design+%E2%80%A2+Build+%E2%80%A2+Innovate">
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=2800&pause=700&color=00D9FF&center=true&vCenter=true&width=750&lines=Embedded+Systems+%7C+IoT+%7C+VLSI;Full-Stack+Web+Development;Code+%E2%80%A2+Design+%E2%80%A2+Build+%E2%80%A2+Innovate" alt="Animated introduction" />
   </a>
 </p>
 
@@ -19,15 +21,15 @@
 
 ## `01` &nbsp; About Me
 
-Hey! I'm **Abishek D**, a final-year Electronics and Communication Engineering student at **Jansons Institute of Technology** and **Chief Technology Officer at Synaptronix Systems Pvt. Ltd.**
+Hey! I'm **Abishek D**, an Electronics and Communication Engineering student at **Jansons Institute of Technology** and **Chief Technology Officer at Synaptronix Systems Pvt. Ltd.**
 
-I enjoy bringing hardware and software together to build useful, connected systems—from microcontroller firmware and sensor integration to IoT monitoring and digital design.
+I enjoy working across hardware and software—from embedded firmware, sensor-based systems, and IoT prototypes to full-stack web applications.
 
 - 🎓 **Education:** B.E. Electronics and Communication Engineering · 2023–2027
 - ⚙️ **Role:** CTO · Synaptronix Systems Pvt. Ltd.
 - 🔌 **Experience:** Embedded Systems & IoT Intern · Technologics Global Pvt. Ltd.
 - 🏭 **Industry exposure:** NLC India Limited (NLCIL), Neyveli
-- 🌱 **Currently exploring:** RTOS, digital logic, FPGA workflows and VLSI fundamentals
+- 🌱 **Currently exploring:** RTOS concepts, digital logic, FPGA workflows, and VLSI fundamentals
 
 ## `02` &nbsp; Technical Stack
 
@@ -38,76 +40,95 @@ I enjoy bringing hardware and software together to build useful, connected syste
   <img src="https://img.shields.io/badge/ESP32-00BFFF?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
   <img src="https://img.shields.io/badge/STM32-00BFFF?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32" />
   <img src="https://img.shields.io/badge/Verilog_HDL-00BFFF?style=flat-square" alt="Verilog HDL" />
-  <img src="https://img.shields.io/badge/FreeRTOS-00BFFF?style=flat-square" alt="FreeRTOS" />
+  <img src="https://img.shields.io/badge/RTOS_Concepts-00BFFF?style=flat-square" alt="RTOS concepts" />
   <img src="https://img.shields.io/badge/PCB_Design-00BFFF?style=flat-square" alt="PCB Design" />
   <img src="https://img.shields.io/badge/IoT-00BFFF?style=flat-square&logo=arduino&logoColor=white" alt="IoT" />
+  <img src="https://img.shields.io/badge/React-00BFFF?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-00BFFF?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-00BFFF?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PHP-00BFFF?style=flat-square&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Git-00BFFF?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_Code-00BFFF?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Quartus-00BFFF?style=flat-square" alt="Quartus" />
-  <img src="https://img.shields.io/badge/MATLAB_Basics-00BFFF?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB basics" />
 </p>
 
-| Embedded & IoT | Digital & Hardware | Tools |
+| Embedded & IoT | Digital & Hardware | Web Development |
 |:--|:--|:--|
-| Microcontroller firmware | Verilog HDL fundamentals | Git / GitHub |
-| Sensor integration | Digital logic design | VS Code |
-| Real-time systems concepts | PCB and circuit development | Keil / STM32Cube |
-| Connected-device monitoring | FPGA learning workflows | Quartus / MATLAB basics |
+| Embedded C / C++ | Verilog HDL fundamentals | React |
+| ESP32 and sensor interfacing | Digital logic design | Next.js |
+| RTOS concepts | PCB and circuit development | Node.js |
+| Connected-device monitoring | FPGA learning workflows | PHP |
+| IoT prototypes | Embedded system integration | Full-stack development |
 
 ## `03` &nbsp; Featured Projects
 
-> Project summaries are showcased here. Use the repository list link on each card to browse the repositories currently published on GitHub.
+### 🔧 Hardware Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌱 AgriDry Pro</h3>
-      <p>IoT-enabled smart crop-drying system focused on improving drying efficiency and quality.</p>
-      <p><code>ESP32</code> <code>IoT</code> <code>Embedded C</code></p>
-      <p><a href="https://github.com/Abishek-DS?tab=repositories">Browse repositories →</a></p>
+      <h3>❤️ MedRTOS</h3>
+      <p><b>Real-Time Health Monitoring System</b></p>
+      <p>An ESP32-based embedded healthcare project using temperature and pulse-sensor inputs, OLED status output, LED indicators, and RTOS-inspired priority-based alert logic.</p>
+      <p><code>ESP32</code> <code>C++</code> <code>DHT22</code> <code>OLED</code> <code>Embedded Systems</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>❤️ Med Track</h3>
-      <p>RTOS-based health-monitoring concept with real-time alerts.</p>
-      <p><code>FreeRTOS</code> <code>C</code> <code>IoT</code></p>
-      <p><a href="https://github.com/Abishek-DS?tab=repositories">Browse repositories →</a></p>
+      <h3>🛡️ SecureSense</h3>
+      <p><b>Hardware / IoT Security Project</b></p>
+      <p>A hardware-focused project in my embedded systems portfolio. Detailed implementation and component information can be added when verified against the project documentation.</p>
+      <p><code>Hardware</code> <code>IoT</code> <code>Embedded Systems</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛡️ SecureSense</h3>
-      <p>IoT border-intrusion detection concept with instant alerts.</p>
-      <p><code>ESP32</code> <code>Python</code> <code>IoT</code></p>
-      <p><a href="https://github.com/Abishek-DS?tab=repositories">Browse repositories →</a></p>
+      <h3>🌱 AgriDry Pro</h3>
+      <p>An IoT-oriented crop-drying project focused on drying process monitoring and efficiency.</p>
+      <p><code>IoT</code> <code>Embedded Systems</code></p>
     </td>
     <td width="50%" valign="top">
       <h3>🏠 Smart Home Automation</h3>
-      <p>Adaptive smart-curtain control based on ambient light conditions.</p>
-      <p><code>ESP32</code> <code>C</code> <code>IoT</code></p>
-      <p><a href="https://github.com/Abishek-DS?tab=repositories">Browse repositories →</a></p>
+      <p>A smart-home project involving adaptive curtain control based on ambient light conditions.</p>
+      <p><code>Sensors</code> <code>Embedded Systems</code> <code>IoT</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🌫️ Gas Detection & Monitoring</h3>
-      <p>Multimodal gas-detection and monitoring concept with alerts.</p>
-      <p><code>ESP32</code> <code>MQ-135</code> <code>IoT</code></p>
-      <p><a href="https://github.com/Abishek-DS?tab=repositories">Browse repositories →</a></p>
+      <p>A sensor-based gas-detection and monitoring project.</p>
+      <p><code>Sensors</code> <code>Embedded Systems</code> <code>IoT</code></p>
     </td>
     <td width="50%" valign="top">
       <h3>💧 Water Level Monitoring</h3>
-      <p>A sensor-based project in my embedded-systems portfolio.</p>
+      <p>A water-level monitoring project within my embedded-systems portfolio.</p>
       <p><code>Sensors</code> <code>Embedded Systems</code></p>
-      <p><a href="https://github.com/Abishek-DS?tab=repositories">Browse repositories →</a></p>
     </td>
   </tr>
 </table>
+
+### 💻 Software Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Synaptronix</h3>
+      <p>Website: <a href="https://synaptronix.in">synaptronix.in</a></p>
+      <p>Full-stack web project for which I worked on both frontend and backend development.</p>
+      <p><code>React</code> <code>Next.js</code> <code>Node.js</code> <code>PHP</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Civimastro</h3>
+      <p>Website: <a href="https://civimastro.in">civimastro.in</a></p>
+      <p>Full-stack web project for which I worked on both frontend and backend development.</p>
+      <p><code>React</code> <code>Next.js</code> <code>Node.js</code> <code>PHP</code></p>
+    </td>
+  </tr>
+</table>
+
+> Project descriptions and technology tags should reflect the actual implementation. The technologies above are the stack you have identified as your experience; they are not assigned to a specific website without verification. Browse my [GitHub repositories](https://github.com/Abishek-DS?tab=repositories) for projects published on GitHub.
 
 ## `04` &nbsp; Experience
 
 ### Chief Technology Officer (CTO) · Synaptronix Systems Pvt. Ltd.
 **2026 – Present**
-- Contribute to technical planning, research and product development.
+- Contribute to technical planning, research, and product development.
 - Support embedded-system and IoT solution design.
 - Collaborate with the engineering team on prototype development.
 
@@ -130,19 +151,18 @@ I enjoy bringing hardware and software together to build useful, connected syste
   <img height="165" src="https://streak-stats.demolab.com?user=Abishek-DS&hide_border=true&background=06111F&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=D9E8F5&currStreakNum=D9E8F5&sideNums=D9E8F5&dates=8AA6C1" alt="GitHub contribution streak" />
 </p>
 
-<!-- Activity graph removed because the external graph service was not loading in the profile screenshot. -->
-
 ## `06` &nbsp; Current Focus
 
 - 🔧 Writing reliable embedded firmware and improving debugging practices
-- 📡 Building connected IoT devices and sensor-driven prototypes
-- 🧠 Strengthening digital logic, Verilog HDL and VLSI fundamentals
+- 📡 Developing connected IoT devices and sensor-driven prototypes
+- 🧠 Strengthening digital logic, Verilog HDL, and VLSI fundamentals
 - ⚡ Learning RTOS concepts and FPGA design workflows
+- 🌐 Building full-stack applications with modern web technologies
 - 🚀 Turning prototypes into practical, well-documented projects
 
 ---
 
 <p align="center">
   <b>“Code • Design • Build • Innovate”</b><br />
-  <sub>Embedded Systems · IoT · VLSI · Digital Electronics</sub><br /><br />
+  <sub>Embedded Systems · IoT · VLSI · Digital Electronics · Full-Stack Development</sub>
 </p>
