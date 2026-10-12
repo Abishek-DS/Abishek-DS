@@ -56,19 +56,21 @@ I enjoy bringing hardware and software together to build useful, connected syste
 
 ## `03` &nbsp; Featured Projects
 
+> Project summaries are showcased here. Use the repository list link on each card to browse the repositories currently published on GitHub.
+
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🌱 AgriDry Pro</h3>
       <p>IoT-enabled smart crop-drying system focused on improving drying efficiency and quality.</p>
       <p><code>ESP32</code> <code>IoT</code> <code>Embedded C</code></p>
-      <p><a href="https://github.com/Abishek-DS/AgriDry-Pro">Explore repository →</a></p>
+      <p><a href="https://github.com/Abishek-DS?tab=repositories">Browse repositories →</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>❤️ Med Track</h3>
       <p>RTOS-based health-monitoring concept with real-time alerts.</p>
       <p><code>FreeRTOS</code> <code>C</code> <code>IoT</code></p>
-      <p><a href="https://github.com/Abishek-DS/Med-Track">Explore repository →</a></p>
+      <p><a href="https://github.com/Abishek-DS?tab=repositories">Browse repositories →</a></p>
     </td>
   </tr>
   <tr>
@@ -76,13 +78,13 @@ I enjoy bringing hardware and software together to build useful, connected syste
       <h3>🛡️ SecureSense</h3>
       <p>IoT border-intrusion detection concept with instant alerts.</p>
       <p><code>ESP32</code> <code>Python</code> <code>IoT</code></p>
-      <p><a href="https://github.com/Abishek-DS/SecureSense">Explore repository →</a></p>
+      <p><a href="https://github.com/Abishek-DS?tab=repositories">Browse repositories →</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>🏠 Smart Home Automation</h3>
       <p>Adaptive smart-curtain control based on ambient light conditions.</p>
       <p><code>ESP32</code> <code>C</code> <code>IoT</code></p>
-      <p><a href="https://github.com/Abishek-DS/Smart-Home-Automation">Explore repository →</a></p>
+      <p><a href="https://github.com/Abishek-DS?tab=repositories">Browse repositories →</a></p>
     </td>
   </tr>
   <tr>
@@ -90,11 +92,11 @@ I enjoy bringing hardware and software together to build useful, connected syste
       <h3>🌫️ Gas Detection & Monitoring</h3>
       <p>Multimodal gas-detection and monitoring concept with alerts.</p>
       <p><code>ESP32</code> <code>MQ-135</code> <code>IoT</code></p>
-      <p><a href="https://github.com/Abishek-DS/Gas-Detection-IoT">Explore repository →</a></p>
+      <p><a href="https://github.com/Abishek-DS?tab=repositories">Browse repositories →</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>💧 Water Level Monitoring</h3>
-      <p>A sensor-based project listed among my embedded-systems explorations.</p>
+      <p>A sensor-based project in my embedded-systems portfolio.</p>
       <p><code>Sensors</code> <code>Embedded Systems</code></p>
       <p><a href="https://github.com/Abishek-DS?tab=repositories">Browse repositories →</a></p>
     </td>
@@ -128,9 +130,7 @@ I enjoy bringing hardware and software together to build useful, connected syste
   <img height="165" src="https://streak-stats.demolab.com?user=Abishek-DS&hide_border=true&background=06111F&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=D9E8F5&currStreakNum=D9E8F5&sideNums=D9E8F5&dates=8AA6C1" alt="GitHub contribution streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abishek-DS&bg_color=06111F&color=D9E8F5&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub activity graph" />
-</p>
+<!-- Activity graph removed because the external graph service was not loading in the profile screenshot. -->
 
 ## `06` &nbsp; Current Focus
 
@@ -145,5 +145,4 @@ I enjoy bringing hardware and software together to build useful, connected syste
 <p align="center">
   <b>“Code • Design • Build • Innovate”</b><br />
   <sub>Embedded Systems · IoT · VLSI · Digital Electronics</sub><br /><br />
-  <img src="https://komarev.com/ghpvc/?username=Abishek-DS&style=flat-square&color=00BFFF&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
